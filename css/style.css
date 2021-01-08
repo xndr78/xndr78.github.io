@@ -14,20 +14,24 @@ a {
 
 .block-intro p {
     font-size: 1.2em;
+    font-weight: 200;
     margin: 0;
 }
 
 .link-menu {
     color: #6c757d;
-    font-size: 1.5em;
+    font-size: 1em;
+    text-transform: uppercase;
 }
+
 .link-menu:hover, .link-menu:focus {
-    color: #565e64;
+    color: #2630c1;
 }
 
 a {
     color: #6c757d;
 }
+
 a:hover, a:focus {
-    color: #565e64;
+    color: #2b2f32;
 }
